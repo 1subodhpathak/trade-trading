@@ -11,7 +11,6 @@ const NavItems = () => {
           <li key={id} className="nav-li">
             <a href={href} className="nav-li-a" onClick={() => {}}>
               {name}
-              
             </a>
           </li>
         ))}
